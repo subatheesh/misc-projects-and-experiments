@@ -1,0 +1,6 @@
+Once you have the basic functionality implemented, try to do the following bonus exercises:
+
+    Incorporate a check in the Index program that will reject binary files.
+    Grade search results based on number of occurrences so that files with the most occurences will be listed on top.
+    Add support conditional searching. e.g. candle AND wind
+    Add support searching for phrases. e.g. "candle in the wind"

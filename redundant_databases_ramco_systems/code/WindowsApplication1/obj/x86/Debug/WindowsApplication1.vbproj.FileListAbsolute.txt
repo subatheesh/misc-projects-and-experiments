@@ -1,0 +1,48 @@
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.exe
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.pdb
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form1.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.dept.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Resources.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.exe
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.pdb
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form2.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form3.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form6.resources
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.exe.config
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form5.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form9.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form7.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form8.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form10.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form11.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form12.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form13.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.SplashScreen1.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.exe.config
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.exe
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.xml
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.pdb
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.exe
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.pdb
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\bin\Debug\Intern_Project.xml
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form1.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form10.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form11.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form12.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form13.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form2.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form3.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.dept.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form5.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form6.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form7.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form8.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Form9.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.Resources.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Intern_Project.SplashScreen1.resources
+K:\Learning HUB\College Materials\IPT\Ramco Systems\Intern Project\Intern_Project(Build3)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

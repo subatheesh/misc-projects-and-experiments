@@ -1,0 +1,89 @@
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\ResolveAssemblyReference.cache
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Form1.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Resources.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go Surf.vbproj.GenerateResource.Cache
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.ChangeHomePage.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.CustomTheme.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.FileDownloader.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.ScreenCapture.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.EMail.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.KeyLogger.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.IPviewer.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\Interop.MSWinsockLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Interop.MSWinsockLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go Surf.vbproj.ResolveComReference.cache
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.About_Go_Surf.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Calculator.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.AlarmClock.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Videoconverter.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Imageconverter.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.exe.config
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.exe
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.pdb
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.xml
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.exe
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.xml
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.pdb
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.NotePad.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\Interop.WMPLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\bin\Debug\AxInterop.WMPLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Interop.WMPLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\AxInterop.WMPLib.dll
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.MultimediaPlayer.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.SplashScreen1.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Loading.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.CleanHistory.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.PaintForm.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.VoiceRecorder.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.AntiVirus.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.TicTacToe.resources
+C:\Go Surf P\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.RockPaperScissors.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.exe.config
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.exe.manifest
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.application
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.exe
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.pdb
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\GoSurf 1.0.xml
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\Interop.MSWinsockLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\Interop.WMPLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Interop.MSWinsockLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Interop.WMPLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go Surf.vbproj.ResolveComReference.cache
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.About_Go_Surf.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.AlarmClock.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.AntiVirus.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Calculator.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.ChangeHomePage.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.CleanHistory.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.CustomTheme.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.EMail.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.FileDownloader.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Form1.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Form2.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Imageconverter.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.IPviewer.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.KeyLogger.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Loading.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.MultimediaPlayer.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Resources.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.NotePad.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.RockPaperScissors.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.PaintForm.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.ScreenCapture.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.SplashScreen1.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.TicTacToe.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.Videoconverter.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go_Surf.VoiceRecorder.resources
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\Go Surf.vbproj.GenerateResource.Cache
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.exe.manifest
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.application
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.exe
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.xml
+D:\Documents and Settings\systems\Desktop\GO SURF 1.0\Go Surf\vs files\Go Surf\Go Surf\obj\Debug\GoSurf 1.0.pdb

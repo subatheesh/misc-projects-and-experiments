@@ -1,0 +1,96 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="520dp"
+        android:weightSum="1">
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/spinner"
+            android:layout_gravity="center_horizontal"
+            android:spinnerMode="dropdown"
+            android:entries="@array/room_arrays"
+            android:prompt="@string/room_prompt"
+            android:clickable="true" />
+
+        <Switch
+            android:layout_width="241dp"
+            android:layout_height="55dp"
+            android:text="DEVICE 1"
+            android:id="@+id/dev1"
+            android:checked="false"
+            android:layout_gravity="center_horizontal" />
+
+        <Switch
+            android:layout_width="241dp"
+            android:layout_height="55dp"
+            android:text="DEVICE 2"
+            android:id="@+id/dev2"
+            android:checked="false"
+            android:layout_gravity="center_horizontal" />
+
+        <Switch
+            android:layout_width="241dp"
+            android:layout_height="55dp"
+            android:text="DEVICE 3"
+            android:id="@+id/dev3"
+            android:checked="false"
+            android:layout_gravity="center_horizontal" />
+
+        <Switch
+            android:layout_width="241dp"
+            android:layout_height="55dp"
+            android:text="DEVICE 4"
+            android:id="@+id/dev4"
+            android:checked="false"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:text="Refresh"
+            android:id="@+id/refresh"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="191dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Enter Server IP:"
+            android:id="@+id/textView2" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText" />
+
+        <TextView
+            android:layout_width="278dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Enter RaspPi IP:"
+            android:id="@+id/textView3" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText2"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connect To Home"
+            android:id="@+id/con"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+</LinearLayout>

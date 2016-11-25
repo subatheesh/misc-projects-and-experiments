@@ -1,0 +1,97 @@
+/*
+/*inserting one record*/
+/*
+insert into db_A.dbo.TA values 
+( 1, 'Venu', 'TN 47 AB 2098', 'Audi r8',getdate(), 1);
+*/
+/*
+insert into db_A.dbo.TA values 
+( 2, 'John', 'TN 47 AB 2098', 'Audi r8',getdate(), 1);
+*/
+
+/*
+delete from db_A.dbo.TA
+where ID=2;
+*/
+insert into db_A.dbo.TA values 
+(3,'Wqe', 'TN 47 AB 2098', 'Audi r8',getdate() , 1);
+*/                                            
+create function duplicate
+returns 
+begin
+
+/*copying to the table in db B if modify=1*/
+insert into db_B.dbo.TB
+select * from db_A.dbo.TA where Modify=1;
+
+/*updating Modify to 0 in the table in db A*/
+update db_A.dbo.TA 
+set Modify=0
+where Modify=1;
+
+/*overwriting the modified data in the table in db B*/
+delete from db_B.dbo.TB
+where ID in 
+(select ID from db_B.dbo.TB 
+ where Modify=1) 
+and Modify=0;
+
+/*updating Modify to 0 in the table in db A*/
+update db_B.dbo.TB 
+set Modify=0
+where Modify=1;
+
+
+/*printing*/
+select * from db_A.dbo.TA;
+select * from db_B.dbo.TB;
+
+end
+
+
+
+
+
+
+
+
+
+
+
+function
+
+
+
+/*
+create procedure dbo.redundancy
+as
+
+/*copying to the table in db B if modify=1*/
+insert into db_B.dbo.TB
+select * from db_A.dbo.TA where Modify=1;
+
+/*updating Modify to 0 in the table in db A*/
+update db_A.dbo.TA 
+set Modify=0
+where Modify=1;
+
+/*overwriting the modified data in the table in db B*/
+delete from db_B.dbo.TB
+where ID in 
+(select ID from db_B.dbo.TB 
+ where Modify=1) 
+and Modify=0;
+
+/*updating Modify to 0 in the table in db A*/
+update db_B.dbo.TB 
+set Modify=0
+where Modify=1;
+
+
+/*printing*/
+select * from db_A.dbo.TA;
+select * from db_B.dbo.TB;
+
+return scope_identity()
+go
+*/

@@ -1,0 +1,28 @@
+Search
+
+Usage: Search <word1> <word2> etc.
+
+This program will scan the index file for the word(s) passed in the command line and display the names of the file(s) that contain these words. The following is a sample usage and output:
+
+$ Search candle in the wind dought
+1. Searching for 'Candle' ...
+   Found in:
+        wax.txt
+
+2. Searching for 'in' ...
+   Found in:
+        wax.txt
+        Elton.txt
+
+3. Searching for 'the' ...
+   Found in:
+        wax.txt
+        Elton.txt
+
+4. Searching for 'wind' ...
+   Found in:
+        Elton.txt
+
+5. Searching for 'dought' ...
+   No matches found.
+support

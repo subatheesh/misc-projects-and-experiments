@@ -1,0 +1,39 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ff3b6aff"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="1"
+        android:background="#ffffc514">
+
+        <ImageView
+            android:layout_width="156dp"
+            android:layout_height="155dp"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/ic_locateme" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Get Location !!"
+            android:id="@+id/textView"
+            android:autoText="false"
+            android:paddingLeft="80dp"
+            android:paddingTop="60dp"
+            android:textColor="#ffff2d30"
+            android:textIsSelectable="false"
+            android:textSize="37dp"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>

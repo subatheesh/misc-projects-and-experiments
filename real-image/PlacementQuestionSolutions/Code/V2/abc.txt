@@ -1,0 +1,13 @@
+Create an index based full text search system for text files. The system will have to be made up of the following programs:
+
+Index
+
+Usage: Index <path to text file>
+
+This program will update an index file in the same folder as the executable with the words in the text file passed in as the argument. The index file will contain the following type of information:
+
+Word1 is contained in file1, file2, file3
+Word2 is contained in file3, file4, file7
+WordN is contained in file1, file3, file100
+
+The exact format of the index file is an exercise for the candidate. The format strongly influences efficiency and performance so there are multiple options available here.

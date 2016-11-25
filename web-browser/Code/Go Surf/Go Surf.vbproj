@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4BB4990-210A-4049-B53C-F1BD7F939C7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Go_Surf.My.MyApplication</StartupObject>
+    <RootNamespace>Go_Surf</RootNamespace>
+    <AssemblyName>GoSurf 1.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>1+%2528461%2529.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>7A51D44A159B1F43B6AA3FA86B7AA0CFCC1F08F3</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Go Surf_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\GoSurf1.0\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <TargetCulture>en-GB</TargetCulture>
+    <ProductName>GoSurf</ProductName>
+    <PublisherName>ssvt</PublisherName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GoSurf 1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GoSurf 1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About Go Surf.Designer.vb">
+      <DependentUpon>About Go Surf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About Go Surf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlarmClock.Designer.vb">
+      <DependentUpon>AlarmClock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlarmClock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntiVirus.Designer.vb">
+      <DependentUpon>AntiVirus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AntiVirus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator.Designer.vb">
+      <DependentUpon>Calculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change Home Page.Designer.vb">
+      <DependentUpon>Change Home Page.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Change Home Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CleanHistory.Designer.vb">
+      <DependentUpon>CleanHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CleanHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomTheme.Designer.vb">
+      <DependentUpon>CustomTheme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomTheme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMail.Designer.vb">
+      <DependentUpon>EMail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EMail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Downloader.Designer.vb">
+      <DependentUpon>File Downloader.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File Downloader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imageconverter.Designer.vb">
+      <DependentUpon>Imageconverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Imageconverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IPviewer.Designer.vb">
+      <DependentUpon>IPviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IPviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyLogger.Designer.vb">
+      <DependentUpon>KeyLogger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KeyLogger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultimediaPlayer.Designer.vb">
+      <DependentUpon>MultimediaPlayer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultimediaPlayer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NotePad.Designer.vb">
+      <DependentUpon>NotePad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotePad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RockPaperScissors.Designer.vb">
+      <DependentUpon>RockPaperScissors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RockPaperScissors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paint.Designer.vb">
+      <DependentUpon>Paint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Paint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScreenCapture.Designer.vb">
+      <DependentUpon>ScreenCapture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScreenCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicTacToe.Designer.vb">
+      <DependentUpon>TicTacToe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TicTacToe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Videoconverter.Designer.vb">
+      <DependentUpon>Videoconverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Videoconverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VoiceRecorder.Designer.vb">
+      <DependentUpon>VoiceRecorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VoiceRecorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About Go Surf.resx">
+      <DependentUpon>About Go Surf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlarmClock.resx">
+      <DependentUpon>AlarmClock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntiVirus.resx">
+      <DependentUpon>AntiVirus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change Home Page.resx">
+      <DependentUpon>Change Home Page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CleanHistory.resx">
+      <DependentUpon>CleanHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomTheme.resx">
+      <DependentUpon>CustomTheme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMail.resx">
+      <DependentUpon>EMail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Downloader.resx">
+      <DependentUpon>File Downloader.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imageconverter.resx">
+      <DependentUpon>Imageconverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPviewer.resx">
+      <DependentUpon>IPviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyLogger.resx">
+      <DependentUpon>KeyLogger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultimediaPlayer.resx">
+      <DependentUpon>MultimediaPlayer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotePad.resx">
+      <DependentUpon>NotePad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RockPaperScissors.resx">
+      <DependentUpon>RockPaperScissors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paint.resx">
+      <DependentUpon>Paint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScreenCapture.resx">
+      <DependentUpon>ScreenCapture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicTacToe.resx">
+      <DependentUpon>TicTacToe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Videoconverter.resx">
+      <DependentUpon>Videoconverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VoiceRecorder.resx">
+      <DependentUpon>VoiceRecorder.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxMSWinsockLib">
+      <Guid>{248DD890-BB45-11CF-9ABC-0080C7E7B78D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSWinsockLib">
+      <Guid>{248DD890-BB45-11CF-9ABC-0080C7E7B78D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Go Surf_TemporaryKey.pfx" />
+    <None Include="Resources\Splash Sreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1+%2528461%2529.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
